@@ -1,0 +1,19 @@
+.c-pill {
+    align-items: center;
+    font-weight: bold;
+    font-size: 11px;
+    white-space: nowrap;
+    position: relative;
+    border-radius: 100px;
+    line-height: 1;
+    overflow: hidden;
+    padding: 0px 20px 0px 20px;
+    text-overflow: ellipsis;
+    line-height: 1.25rem;
+    color: white;
+    word-break: break-word;
+    background: #363b40;
+
+  }
+
+  
